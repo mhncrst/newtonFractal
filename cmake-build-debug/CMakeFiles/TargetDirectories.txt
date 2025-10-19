@@ -1,0 +1,5 @@
+C:/Users/dell/CLionProjects/fractalV2/cmake-build-debug/CMakeFiles/ispc_generated_files.dir
+C:/Users/dell/CLionProjects/fractalV2/cmake-build-debug/CMakeFiles/newton_ispc_lib.dir
+C:/Users/dell/CLionProjects/fractalV2/cmake-build-debug/CMakeFiles/newton.dir
+C:/Users/dell/CLionProjects/fractalV2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/fractalV2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
